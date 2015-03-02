@@ -4,7 +4,7 @@ Code Review
 A guide for reviewing code and having your code reviewed.
 
 Everyone
--------
+----------------
 
 * Accept that many programming decisions are opinions. Discuss tradeoffs, which
   you prefer, and reach a resolution quickly.
